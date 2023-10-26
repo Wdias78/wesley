@@ -12,4 +12,4 @@ wesley.dias13@escola.pr.gov.br
 
 @Potrinho
 
-![descrição do GIF](link GIF do Tenor)
+![descrição do GIF](https://media.tenor.com/i7llTDaTPtUAAAAC/naruto.gif)
