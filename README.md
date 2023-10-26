@@ -1,5 +1,8 @@
 ### Boas vindas ao meu perfil :blue_heart
 
+
+[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aluraonline/)
+
 Meu nome é wesley
 
 - Estou estudando na [Alura](https://www.alura.com.br)
@@ -13,3 +16,5 @@ wesley.dias13@escola.pr.gov.br
 @Potrinho
 
 ![descrição do GIF](https://media.tenor.com/i7llTDaTPtUAAAAC/naruto.gif)
+
+
