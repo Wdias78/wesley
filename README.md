@@ -1,7 +1,7 @@
 ### Boas vindas ao meu perfil :blue_heart
 
 
-[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aluraonline/)
+[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wesley_042_/)
 
 Meu nome é wesley
 
